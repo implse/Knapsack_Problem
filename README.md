@@ -1,6 +1,6 @@
 # Knapsack Problem
 
-Given weights and values of n items, put these items in a knapsack of capacity W to get the maximum total value in the knapsack.
+Given a set of `items`, each with `weight` and `value` (wi, vi), determine what is the maximum value we can obtain by selecting a subset of these items such that the sum of the weights does not exceed a certain `capacity` `c`.
 
 
 ### 0/1 Knapsack.
